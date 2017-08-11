@@ -1,0 +1,5 @@
+name: Nginx
+description: |
+    Just a test
+version: 0.1.0
+category: Continuous Integration

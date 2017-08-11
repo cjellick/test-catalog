@@ -1,0 +1,6 @@
+.catalog:
+  name: Nginx
+  version: 0.2.0
+  upgrade_from: >=v0.1.0
+  description: |
+    Just a test
